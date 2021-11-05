@@ -1,6 +1,37 @@
-html{
-    background-color: #222;
+body{
+    background-color: #222 !important;
 }
 .container{
     background-color: #000;
+}
+.heading-col{
+    background-color: cadetblue;
+    text-align: center;
+
+}
+.heading-col img{
+    width: 400px;
+}
+.heading-col p{
+    font-size: 22px;
+}
+
+/* Delete Afterwards */
+.row{
+    background-color: antiquewhite;
+}
+.col-sm{
+    background-color: violet;
+}
+.card img{
+    /* width: 200px;
+    height: 200px; */
+}
+.card-img-top{
+    /* width: 100%; */
+    /* height: 16vw; */
+    /* object-fit: cover; */
+}
+.card-dem{
+    margin: 100px;
 }
